@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\fabu2" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="MyApp" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="03/12/2024 20:49:08" />
+    <file relUrl="register.aspx" publishTime="12/09/2023 10:00:08" />
+    <file relUrl="login.aspx" publishTime="12/09/2023 09:59:52" />
+    <file relUrl="createSecert.aspx" publishTime="03/11/2024 22:28:49" />
+    <file relUrl="HomePage.aspx" publishTime="03/12/2024 18:58:11" />
+    <file relUrl="newTopic.aspx" publishTime="12/09/2023 10:16:10" />
+    <file relUrl="Pictures/wildfireLOGO.png" publishTime="11/20/2023 17:42:40" />
+    <file relUrl="bin/Final.dll" publishTime="03/12/2024 20:49:03" />
+    <file relUrl="SecertForm.aspx" publishTime="03/12/2024 20:33:00" />
+    <file relUrl="Admind033e.aspx" publishTime="11/23/2023 17:31:46" />
+    <file relUrl="Pictures/userLOGO.jpg" publishTime="11/20/2023 17:42:40" />
+    <file relUrl="mainForm.aspx" publishTime="12/09/2023 10:07:14" />
+    <file relUrl="bin/Final.pdb" publishTime="03/12/2024 20:49:03" />
+    <file relUrl="Pictures/wildfireBIG.png" publishTime="11/20/2023 17:42:40" />
+  </publishProfile>
+</publishData>

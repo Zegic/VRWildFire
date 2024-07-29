@@ -1,0 +1,8 @@
+E:\复习PPT\互联网应用数据库实践（html）\Finial\Final\Final\bin\Final.dll
+E:\复习PPT\互联网应用数据库实践（html）\Finial\Final\Final\bin\Final.pdb
+E:\复习PPT\互联网应用数据库实践（html）\Finial\Final\Final\obj\Debug\Final.dll
+E:\复习PPT\互联网应用数据库实践（html）\Finial\Final\Final\obj\Debug\Final.pdb
+D:\复习PPT\1老课PPT\互联网应用数据库实践（html）\Finial\Final\Final\bin\Final.dll
+D:\复习PPT\1老课PPT\互联网应用数据库实践（html）\Finial\Final\Final\bin\Final.pdb
+D:\复习PPT\1老课PPT\互联网应用数据库实践（html）\Finial\Final\Final\obj\Debug\Final.dll
+D:\复习PPT\1老课PPT\互联网应用数据库实践（html）\Finial\Final\Final\obj\Debug\Final.pdb
